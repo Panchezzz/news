@@ -1,5 +1,1 @@
-Тест
-Тест2
-Т е с т 3
-ТЕСТ4
-ТеСт5
+{"c2array":true,"size":[2,1,1],"data":[[["Name*Garry’s Mod*Desc*Garry’s Mod — физическая песочница. В отличие от обычных игр, здесь не существует каких-либо определённых целей или задач. Мы даём вам инструменты и оставляем вас играть.||Вы создаете объекты и соединяете их вместе для создания ваших собственных конструкций — машина ли это, ракета, катапульта или нечто пока без названия — это зависит от вас.||Если с конструированием у вас не слишком замечательно — не расстраивайтесь! Вы можете разместить множество персонажей в глупых позах.|| ||Системные требования:||Видеокарта: 512MB dedicated VRAM or better||Оперативная память: 4 GB ОЗУ||Процессор: 2 GHz Processor or better.||Место на диске: 5 GB*Size*5 GB*IMG*https://cdn.akamai.steamstatic.com/steam/apps/4000/capsule_616x353.jpg?tu003d1698777053*Silka*https://upload.wikimedia.org/wikipedia/ru/a/a0/Far_Cry_3_Box_Art_PC.jpeg"]],[["Name*FARCRY*Desc*FARCRYTOP*Size*8 GB*IMG*https://upload.wikimedia.org/wikipedia/ru/a/a0/Far_Cry_3_Box_Art_PC.jpeg*Silka*https://cdn.akamai.steamstatic.com/steam/apps/4000/capsule_616x353.jpg?t=1698777053"]]]}
